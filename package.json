@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-poc-utilities",
+  "version": "1.0.0",
+  "description": "A Node.js proof-of-concept project featuring a collection of utility functions and tools to streamline development tasks and demonstrate core functionalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "poc",
+    "utilities",
+    "javascript",
+    "poc",
+    "utilities",
+    "helper",
+    "function",
+    "helper",
+    "tools"
+  ],
+  "author": "\"Pavadeppa Myageri <pavadeppasm@gmail.ocm>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
